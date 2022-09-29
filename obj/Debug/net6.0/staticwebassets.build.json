@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "zH3htIv2Zt43r6g4K+k7/0IVS7lan0b5cKDRpjALl8I=",
+  "Source": "SignalRChat",
+  "BasePath": "_content/SignalRChat",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SignalRChat\\wwwroot",
+      "Source": "SignalRChat",
+      "ContentRoot": "C:\\Users\\KHANIM\\source\\repos\\SignalRChat\\wwwroot\\",
+      "BasePath": "_content/SignalRChat",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
